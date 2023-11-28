@@ -1,0 +1,13 @@
+requests
+colorama
+bs4
+ipaddress
+numpy
+ipranges
+pystyle
+telepot
+vonage
+boto3
+discord
+twilio
+botocore
